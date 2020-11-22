@@ -2,7 +2,7 @@
 
 ### Assignment Programming for Data Analysis - numpy.random
 
-by Fabio H. Bonini da Fonseca - G00
+by Fabio H. Bonini da Fonseca - G00387889
 
 This is a Jupyter notebook file to explain the use of the package numpy.random, including detailed explanations of at least five of the distributions provided for in the package. There are four distinct tasks to be carried out in your Jupyter notebook. 1.Explain the overall purpose of the package. 2.Explain the use of the “Simple random data” and “Permutations” functions. 3.Explain the use and purpose of at least five “Distributions” functions. 4.Explain the use of seeds in generating pseudorandom numbers.
 
